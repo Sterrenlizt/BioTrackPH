@@ -1,8 +1,11 @@
-# BioTrackPH
-PEECO Web Application Project titled "BioTrackPH"
 
-By: Aliza R.
+  # BIOTRACKPH
 
-Dated: March 2026
+  This is a code bundle for BIOTRACKPH. The original project is available at https://www.figma.com/design/JuWPrnKaxeovVkMaTu7gnC/BIOTRACKPH.
 
-BioTrackPH is an interactive environmental monitor designed to track and visualize Net Primary Productivity (NPP) trends across ecological sites in the Philippines.
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
